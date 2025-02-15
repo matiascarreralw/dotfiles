@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = soy@maticarrera.com
+	name = Matias Carrera
